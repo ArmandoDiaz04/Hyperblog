@@ -6,3 +6,5 @@ Soy Armando Díaz soy del El Salvador
 Tengo 22 años
 
 Estudio ing en desarrollo de software
+
+Hoy es martes.
